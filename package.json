@@ -1,0 +1,23 @@
+{
+  "name": "playwright-estudos",
+  "version": "1.0.0",
+  "description": "Studying Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafapiellusch-creator/playwright-estudos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rafapiellusch-creator/playwright-estudos/issues"
+  },
+  "homepage": "https://github.com/rafapiellusch-creator/playwright-estudos#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.0"
+  }
+}
